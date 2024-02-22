@@ -11,8 +11,13 @@ git submodule update
 
 pull
 ```
+cd share_module_x
+git pull https://github.com/MarkLinAtTelmar/share_module_x.git main
 ```
 
-push
+commit, push
 ```
+cd share_module_x
+git push -a -m "<message>"
+git push origin HEAD:main
 ```

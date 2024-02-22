@@ -1,3 +1,6 @@
 [submodule "share_module_x"]
 	path = share_module_x
 	url = https://github.com/MarkLinAtTelmar/share_module_x.git
+[submodule "main"]
+	path = main
+	url = https://github.com/MarkLinAtTelmar/share_module_x.git

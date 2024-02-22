@@ -3,7 +3,7 @@
 use git submoudle 
 init
 ```
-git submodule add https://github.com/MarkLinAtTelmar/share_module_x.git main
+git submodule add -b main --force https://github.com/MarkLinAtTelmar/share_module_x.git
 
 git submodule init
 git submodule update
